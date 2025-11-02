@@ -1,16 +1,14 @@
-# simplenote
+Reading List App (Tugas Minggu 7)
+Aplikasi Flutter sederhana untuk mencatat daftar buku yang ingin dibaca, menggunakan state management GetX agar data lebih reaktif dan mudah dikelola.
 
-A new Flutter project.
+Fitur
+- Menambahkan judul buku ke daftar.
+- Menandai buku sebagai sudah dibaca.
+- Menghapus buku tertentu dari daftar.
+- Menghapus seluruh daftar sekaligus.
+- Data binding reaktif menggunakan Obx (GetX).
 
-## Getting Started
+Demo Aplikasi
+![Demo](https://github.com/user-attachments/assets/968340ef-d61f-41c-923d-92ddcdaf03aa)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
