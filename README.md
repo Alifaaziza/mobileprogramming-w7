@@ -9,6 +9,4 @@ Fitur
 - Data binding reaktif menggunakan Obx (GetX).
 
 Demo Aplikasi
-![Demo](https://github.com/user-attachments/assets/968340ef-d61f-41c-923d-92ddcdaf03aa)
-
-
+![Reading List (W7) - Your Chrome - Microsoft_ Edge 2025-11-02 19-19-21](https://github.com/user-attachments/assets/d89ddbcc-2c17-45d2-89ce-b983c13c2154)
